@@ -1,0 +1,11 @@
+.main-bg{
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+}
+.item-list-div{
+  text-align: center;
+}
+.item-div{
+  cursor: pointer;
+}
