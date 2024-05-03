@@ -1,0 +1,15 @@
+.Carset-header{
+  height: 100px;
+}
+.Carset-content span{
+  font-weight: bold;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+.Carset-content{
+  height: 80px;
+}
+.Carset-content select{
+  width: 80px;
+  border: 1px solid #ccc;
+}
